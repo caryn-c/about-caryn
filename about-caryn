@@ -1,10 +1,6 @@
-echo "# about-caryn" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
+
 git remote add origin https://github.com/caryn-c/about-caryn.git
-git push -u origin main
+git push -u origin master
 
 <h1>Some cool stuff about me, Caryn</h1>
 
@@ -76,4 +72,3 @@ Press if you think school is whack
 <h3> Work sucks, not gonna lie.</h3>
 
 <p> work kinda sucks, i just want to be rich</p>
-git push -u origin master
